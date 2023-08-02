@@ -1,0 +1,78 @@
+.container {
+  padding: 30px;
+  background-color: #f0f0f0;
+}
+.heading {
+  font-size: 2.2rem;
+  color: #4340f1;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.address {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+.address-detail {
+  margin-bottom: 10px;
+  justify-content: space-evenly;
+
+  width: 43%;
+  // height: 30%;
+
+  border: 2px solid #d4d4d4;
+  padding: 30px;
+
+  border-radius: 10px;
+  &-street,
+  &-city,
+  &-zipcode,
+  &-country,
+  &-state {
+    color: rgb(87, 87, 226);
+    padding: 3px;
+    display: flex;
+    left: 10px;
+    justify-content: center;
+
+    margin: 0;
+    font-size: 1.3rem;
+  }
+}
+.more-button {
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #6c94c0;
+  font-size: 1.1rem;
+  color: white;
+  width: 10rem;
+  margin-left: 45%;
+}
+.less-button{
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #6c94c0;
+    font-size: 1.1rem;
+    color: white;
+    width: 10rem;
+    margin-left: 10%;
+    &-one{
+       
+        border: none;
+        cursor: pointer;
+        padding: 10px 20px;
+        background-color: #6c94c0;
+        font-size: 1.1rem;
+        color: white;
+        width: 10rem;
+        margin-left: 10%;
+    }
+}
+// hr{
+//     border: none;
+//     border-top: 1px solid #ccc;
+//     margin: 20px 0;
+// }

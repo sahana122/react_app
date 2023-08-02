@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zipcode": "123456",
+    "street": "123 Main Street",
+    "country": "India"
+  },
+  {
+    "city": "Delhi",
+    "state": "Mumbai",
+    "zipcode": "123498",
+    "street": "1278 Main Street",
+    "country": "India"
+  },
+  {
+    "city": "Townsville",
+    "state": "Mumbai",
+    "zipcode": "12367",
+    "street": "890 Main Street",
+    "country": "India"
+  },
+  {
+    "city": "Dargling",
+    "state": "Greece",
+    "zipcode": "678745",
+    "street": "908 Main Street",
+    "country": "CountryLand"
+  },
+  {
+    "city": "Bomaby",
+    "state": "Meghayala",
+    "zipcode": "678745",
+    "street": "89 Main Street",
+    "country": "CountryLand"
+  },
+  {
+    "city": "Dargling",
+    "state": "Greece",
+    "zipcode": "678745",
+    "street": "908 Main Street",
+    "country": "CountryTYard"
+  },
+  {
+    "city": "Calicat",
+    "state": "Laundry",
+    "zipcode": "674545",
+    "street": "765 Main Street",
+    "country": "CountryLand"
+  },
+  {
+    "city": "uburbville",
+    "state": "Greece",
+    "zipcode": "678745",
+    "street": "907 Main Street",
+    "country": "CountryLord"
+  }
+,
+{
+    "city": "Ruraltown",
+    "state": "Germany",
+    "zipcode": "678745",
+    "street": "908 Main Street",
+    "country": "CountryLand"
+  }
+,
+{
+    "city": "stateville",
+    "state": "Hamleville",
+    "zipcode": "246890",
+    "street": "897 Main Street",
+    "country": "CountryLand"
+  }
+]
